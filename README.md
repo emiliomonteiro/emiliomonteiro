@@ -7,7 +7,8 @@
 
 
 - 😄 I'm a Computer Science Undergraduate Student from Brazil. </br>
-- 🌱 Right now, I'm learning  **JavaScript**, **Python** and **SQL**; </br>
+- 🌱 Right now, I'm learning **HTML/CSS** and **React**; </br>
+- 🔭 I have experience in projects on **Javascript**, **Python** and **SQL**</br>
 - 👯 I’m looking to collaborate on new projects;  </br>
 - 😄 Pronouns: he/him
 
